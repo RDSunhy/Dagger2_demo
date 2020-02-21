@@ -1,0 +1,2 @@
+include ':app', ':dagger2_sample', ':mvp_demo', ':mvp_demo02', ':dagger2_mvp_demo01', ':dagger2_mvp_demo02'
+rootProject.name='study_dagger2'
